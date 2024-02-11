@@ -18,6 +18,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cadb2facae4948fd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -129,7 +137,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,7 +155,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba093813ae6e0cd9",
+  "active": "ece97a52ea1c1f6a",
   "lastOpenFiles": [
     "README.md"
   ]
